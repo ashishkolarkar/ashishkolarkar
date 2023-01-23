@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on website development and 
 - 🤔 I’m looking for help with earning via some SideGigs 
 - 💬 Ask me about : my stint working with MP State Government as a Principal Consultant. 
-- 📫 How to reach me: @sunilchoudhary sunil.choudhary@gmail.com www.linkedin.com/in/suchoudh 887132909 (91 for India)  
+- 📫 How to reach me: www.onelife.in @sunilchoudhary sunil.choudhary@gmail.com www.linkedin.com/in/suchoudh 887132909 (91 for India)  
 - 😄 Pronouns: He/him 
 - ⚡ Fun fact: I love to sketch while listening to classical Hindustani Music. 
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <!-- YT LIST START -->
 
-https://youtu.be/Hwm-Zerpihg"
+My Session on Cloud Computing in BlueOceanTech :: https://youtu.be/Hwm-Zerpihg
 
 
 
