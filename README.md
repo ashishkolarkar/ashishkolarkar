@@ -7,8 +7,7 @@
   -->
 </div>
 
-.. image:: https://img.shields.io/twitter/follow/sunilchoudhary?style=social
-   :alt: Twitter Follow
+![GitHub followers](https://img.shields.io/github/followers/suchoudh?style=social)
 
 <!--
 **suchoudh/suchoudh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
