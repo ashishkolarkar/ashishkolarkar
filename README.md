@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 My Session on Cloud Computing in BlueOceanTech :: https://youtu.be/Hwm-Zerpihg
 
 ### Languages and Tools:
-<p align="left"><img src="amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
+<p align="left"><img src="amazonwebservices-original-wordmark.svg" alt="AWS" width="120" height="120"/> </a>
 </p>
 
 
