@@ -24,6 +24,5 @@ Here are some ideas to get you started:
 ### Latest Youtube Videos
 
 <!-- YT LIST START -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hwm-Zerpihg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+https://youtu.be/Hwm-Zerpihg
 
