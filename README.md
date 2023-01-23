@@ -1,5 +1,4 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=suchoudh&style=flat-square)
 
 <div align="left" inline>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=ssuchoudh&label=Profile%20views&color=0e75b6&style=flat" alt="suchoudh" /> </span>
