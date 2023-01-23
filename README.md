@@ -6,6 +6,11 @@
 <span align="left"> <a href="https://twitter.com/sunilchoudhary" target="blank"><img src="https://img.shields.io/twitter/follow/sunilchoudhary?logo=twitter&style=for-the-badge" alt="sunilchoudhary" /></a> </span>
 </div>
 
+<div align="left" inline>
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=sarthaksavvy&label=Profile%20views&color=0e75b6&style=flat" alt="sarthaksavvy" /> </span>
+<span align="left"> <a href="https://twitter.com/sunilchoudhary" target="blank"><img src="https://img.shields.io/twitter/follow/sunilchoudhary?logo=twitter&style=for-the-badge" alt="sunilchoudhary" /></a> </span>
+</div>
+
 <!--
 **suchoudh/suchoudh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
