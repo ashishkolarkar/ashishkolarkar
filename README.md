@@ -4,7 +4,7 @@
 [![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=suchoudh)](https://github.com/suchoudh/github-readme-stats)
 
 <div align="left" inline>
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=ssuchoudh&label=Profile%20views&color=0e75b6&style=flat" alt="suchoudh" /> </span>
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=suchoudh&label=Profile%20views&color=0e75b6&style=flat" alt="suchoudh" /> </span>
 <!--
   span align="left"> <a href="https://twitter.com/sunilchoudhary" target="blank"><img src="https://img.shields.io/twitter/follow/sunilchoudhary?logo=twitter&style=for-the-badge" alt="sunilchoudhary" /></a> </span>
   -->
