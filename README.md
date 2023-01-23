@@ -24,5 +24,10 @@ Here are some ideas to get you started:
 ### Latest Youtube Videos
 
 <!-- YT LIST START -->
-https://youtu.be/Hwm-Zerpihg
+
+<a href="[https://youtu.be/Hwm-Zerpihg">
+<img src="https://i3.ytimg.com/vi/oX1Bo4sdsdaW9Wk/hqdefault.jpg" align="left" width="200" style="border-radius:40px" />
+</a>
+
+
 
