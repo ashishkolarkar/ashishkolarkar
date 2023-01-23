@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suchoudh&theme=radical)](https://git.io/streak-stats)
+[![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=suchoudh)](https://github.com/suchoudh/github-readme-stats)
+
 <div align="left" inline>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=ssuchoudh&label=Profile%20views&color=0e75b6&style=flat" alt="suchoudh" /> </span>
 <!--
@@ -26,15 +29,18 @@ Here are some ideas to get you started:
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suchoudh&theme=radical)](https://git.io/streak-stats)
-[![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=suchoudh)](https://github.com/suchoudh/github-readme-stats)
-
 
 ### Latest Youtube Videos
 
 <!-- YT LIST START -->
-
+My Youtube Videos ::   https://www.youtube.com/channel/UCuL0puNSYNzoZQH_evrJaqw 
 My Session on Cloud Computing in BlueOceanTech :: https://youtu.be/Hwm-Zerpihg
+
+# Blog posts 
+My Latest Blog Posts :: https://sunil_choudhary.blogspot.com/
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 ### Languages and Tools:
 <p align="left"><img src="amazonwebservices-original-wordmark.svg" alt="AWS" width="120" height="120"/> </a>
