@@ -36,6 +36,10 @@ Here are some ideas to get you started:
 
 My Session on Cloud Computing in BlueOceanTech :: https://youtu.be/Hwm-Zerpihg
 
+### Languages and Tools:
+<p align="left"><img src="https://raw.githubusercontent.com/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+
+
 
 
 
