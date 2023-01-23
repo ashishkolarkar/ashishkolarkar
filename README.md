@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suchoudh&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suchoudh&theme=graywhite)](https://git.io/streak-stats)
 [![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=suchoudh)](https://github.com/suchoudh/github-readme-stats)
 
 <div align="left" inline>
