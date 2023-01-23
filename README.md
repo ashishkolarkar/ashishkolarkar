@@ -6,6 +6,7 @@
   span align="left"> <a href="https://twitter.com/sunilchoudhary" target="blank"><img src="https://img.shields.io/twitter/follow/sunilchoudhary?logo=twitter&style=for-the-badge" alt="sunilchoudhary" /></a> </span>
   -->
 </div>
+https://img.shields.io/twitter/follow/sunilchoudhary?style=social
 
 <!--
 **suchoudh/suchoudh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
