@@ -49,8 +49,8 @@ My Latest Blog Posts :: https://sunil_choudhary.blogspot.com/
 
 ### Languages and Tools:
 <p align="left"><img src="amazonwebservices-original-wordmark.svg" alt="AWS" width="120" height="120"/> </a>
-<a href="http"//www.oracle.com" target="blank"><img src="oracle-original.svg" alt="oracle"  width="120" height="120" /></a>                                                                  <a href="http"//www.ubuntu.com" target="blank"><img src="ubuntu-plain.svg" alt="ubuntu"  width="120" height="120" /></a> 
-<a href="http"//www.terraform.com" target="blank"><img src="terraform-original.svg" alt="terraform"  width="60" height="60" /></a>                                                                  <a href="http"//www.rstudio.com" target="blank"><img src="rstudio-original.svg" alt="rstudio"  width="120" height="120" /></a> 
+<a href="http"//www.oracle.com" target="blank"><img src="oracle-original.svg" alt="oracle"  width="120" height="120" /></a>                                                                  <a href="http"//www.ubuntu.com" target="blank"><img src="ubuntu-plain.svg" alt="ubuntu"  width="60" height="60" /></a> 
+<a href="http"//www.terraform.com" target="blank"><img src="terraform-original.svg" alt="terraform"  width="60" height="60" /></a>                                                                  <a href="http"//www.rstudio.com" target="blank"><img src="rstudio-original.svg" alt="rstudio"  width="60" height="60" /></a> 
 <a href="http"//www.cloud.google.com" target="blank"><img src="googlecloud-original-wordmark.svg" alt="GoogleCloud"  width="120" height="120" /></a> 
 <a href="http"//www.docker.com" target="blank"><img src="docker-original-wordmark.svg" alt="docker"  width="120" height="120" /></a> 
 <a href="http"//www.ansible.com" target="blank"><img src="ansible-original-wordmark.svg" alt="ansible"  width="60" height="60" /></a> 
