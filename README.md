@@ -49,7 +49,7 @@ My Latest Blog Posts :: https://sunil_choudhary.blogspot.com/
 
 ### Languages and Tools:
 <p align="left"><img src="amazonwebservices-original-wordmark.svg" alt="AWS" width="120" height="120"/> </a>
-<a href="http"//www.oracle.com" target="blank"><img src="oracle-original.svg" alt="oracle"  width="120" height="120" /></a> 
+<a href="http"//www.oracle.com" target="blank"><img src="oracle-original.svg" alt="oracle"  width="120" height="120" /></a>                                                                  <a href="http"//www.ubuntu.com" target="blank"><img src="ubuntu-original.svg" alt="ubuntu"  width="120" height="120" /></a> 
 </p>
 
 
