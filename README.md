@@ -58,11 +58,12 @@ My Latest Blog Posts :: https://sunil_choudhary.blogspot.com/
 </p>
 
 ### Aspiring to learn :
-<p align="right"><img src="raspberrypi-original-wordmark.svg" alt="RaspberryPi"  width="120" height="120" /></a>  
-<a href="" target="blank"><img src="perl-original.svg" alt="Perl"  width="60" height="60" /></a>  
-<a href="" target="blank"> <img src="jetbrains-original.svg" alt="JetBrains"  width="60" height="60" /></a>  
-<a> <img src="neo4j-original-wordmark.svg" alt="Neo4J"  width="60" height="60" /></a>  
-<a> <img src="canva-original.svg" alt="Canva"  width="60" height="60" /></a>  
+<p align="right"> 
+  <img src="canva-original.svg" alt="Canva"  width="60" height="60" /></a>  
+  <a href="" target="blank"><img src="perl-original.svg" alt="Perl"  width="60" height="60" /></a>  
+  <a href="" target="blank"> <img src="jetbrains-original.svg" alt="JetBrains"  width="60" height="60" /></a>  
+  <a> <img src="neo4j-original-wordmark.svg" alt="Neo4J"  width="60" height="60" /></a>  
+  <a> <img src="raspberrypi-original-wordmark.svg" alt="RaspberryPi"  width="140" height="140" /></a>  
 
 <!-- 
 
