@@ -63,12 +63,13 @@ My Latest Blog Posts :: https://sunil_choudhary.blogspot.com/
   <a href="" target="blank"><img src="perl-original.svg" alt="Perl"  width="60" height="60" /></a>  
   <a href="" target="blank"> <img src="jetbrains-original.svg" alt="JetBrains"  width="60" height="60" /></a>  
   <a> <img src="neo4j-original-wordmark.svg" alt="Neo4J"  width="60" height="60" /></a>  
-  <a> <img src="raspberrypi-original-wordmark.svg" alt="RaspberryPi"  width="140" height="140" /></a>  
+  <a> <img src="raspberrypi-original-wordmark.svg" alt="RaspberryPi"  width="140" height="140" /></a>
+  <a> <img src="rust-logo-blk.png" alt="Rust"  width="60" height="60" /></a>
 
 <!-- 
 
 
-
+rust-logo-blk
 canva-original.svg
 --> 
 
