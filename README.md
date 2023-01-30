@@ -57,9 +57,9 @@ My Latest Blog Posts :: https://sunil_choudhary.blogspot.com/
 <a href="http"//www.jenkins.com" target="blank"><img src="jenkins-original.svg" alt="Jenkins"  width="60" height="60" /></a>    
 
 ### Aspiring to learn :
-<a> <img src="raspberrypi-original-wordmark.svg" alt="RaspberryPi"  width="120" height="120" /></a>  
-<a> <img src="perl-original.svg" alt="Perl"  width="60" height="60" /></a>  
-<a> <img src="jetbrains-original.svg" alt="JetBrains"  width="60" height="60" /></a>  
+<a href="" > <img src="raspberrypi-original-wordmark.svg" alt="RaspberryPi"  width="120" height="120" /></a>  
+<a href="" > <img src="perl-original.svg" alt="Perl"  width="60" height="60" /></a>  
+<a href="" > <img src="jetbrains-original.svg" alt="JetBrains"  width="60" height="60" /></a>  
 <a> <img src="neo4j-original-wordmark.svg" alt="Neo4J"  width="60" height="60" /></a>  
 <a> <img src="canva-original.svg" alt="Canva"  width="60" height="60" /></a>  
 
