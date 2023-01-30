@@ -55,4 +55,17 @@ My Latest Blog Posts :: https://sunil_choudhary.blogspot.com/
 <a href="http"//www.docker.com" target="blank"><img src="docker-original-wordmark.svg" alt="docker"  width="120" height="120" /></a> 
 <a href="http"//www.ansible.com" target="blank"><img src="ansible-original-wordmark.svg" alt="ansible"  width="60" height="60" /></a> 
 <a href="http"//www.jenkins.com" target="blank"><img src="jenkins-original.svg" alt="Jenkins"  width="60" height="60" /></a>    
+
+### Aspiring to learn :
+<a> <img src="raspberrypi-original-wordmark.svg" alt="RaspberryPi"  width="60" height="60" /></a>  
+
+<!-- 
+raspberrypi-original-wordmark.svg
+perl-original.svg
+jetbrains-original.svg
+neo4j-original-wordmark.svg
+canva-original.svg
+--> 
+
 </p>
+
