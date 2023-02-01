@@ -56,6 +56,8 @@ My Latest Blog Posts :: https://sunil_choudhary.blogspot.com/
 <a href="http"//www.ansible.com" target="blank"><img src="ansible-original-wordmark.svg" alt="ansible"  width="60" height="60" /></a> 
 <a href="http"//www.jenkins.com" target="blank"><img src="jenkins-original.svg" alt="Jenkins"  width="60" height="60" /></a>    
 <a href=" " target="blank"><img src="c-line.svg" alt="C Language"  width="60" height="60" /></a>    
+<a href=" " target="blank"><img src="cmake-original-wordmark.svg" alt="C Make"  width="60" height="60" /></a>
+<a href=" " target="blank"><img src="apache-original-wordmark.svg" alt="Apache"  width="60" height="60" /></a>    
 </p>
 
 ### Aspiring to learn :
@@ -68,10 +70,7 @@ My Latest Blog Posts :: https://sunil_choudhary.blogspot.com/
   <a> <img src="rust-logo-blk.png" alt="Rust"  width="60" height="60" /></a>
 
 <!-- 
-
-
-rust-logo-blk
-canva-original.svg
+Rough space : for copy pastes :) 
 --> 
 
 </p>
