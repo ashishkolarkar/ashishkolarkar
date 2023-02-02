@@ -68,9 +68,11 @@ My Latest Blog Posts :: https://sunil_choudhary.blogspot.com/
   <a> <img src="neo4j-original-wordmark.svg" alt="Neo4J"  width="60" height="60" /></a>  
   <a> <img src="raspberrypi-original-wordmark.svg" alt="RaspberryPi"  width="140" height="140" /></a>
   <a> <img src="rust-logo-blk.png" alt="Rust"  width="60" height="60" /></a>
+   <a> <img src="graphql-plain-wordmark.svg" alt="GraphQL"  width="60" height="60" /></a>
 
 <!-- 
 Rough space : for copy pastes :) 
+
 --> 
 
 </p>
