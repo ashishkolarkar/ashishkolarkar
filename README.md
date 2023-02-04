@@ -33,8 +33,9 @@ Here are some ideas to get you started:
 ### Latest Youtube Videos
 
 <!-- YT LIST START -->
-My Youtube Videos ::   https://www.youtube.com/channel/UCuL0puNSYNzoZQH_evrJaqw 
-My Session on Cloud Computing in BlueOceanTech :: https://youtu.be/Hwm-Zerpihg
+
+- My Youtube Videos ::   https://www.youtube.com/channel/UCuL0puNSYNzoZQH_evrJaqw 
+- My Session on Cloud Computing in BlueOceanTech :: https://youtu.be/Hwm-Zerpihg
 
 # Blog posts 
 My Latest Blog Posts :: https://sunil_choudhary.blogspot.com/
