@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on brushing my Sysadmin skills and use them for a DevSecOps profile 
-- 🌱 I’m currently learning AWS, GCP 
+- 🌱 I’m currently enjoying to work on AWS, GCP 
 - 👯 I’m looking to collaborate on website development and 
-- 🤔 I’m looking for help with earning via some SideGigs 
+- 🤔 I’m looking for help with earning via some SideGigs and consultancies  
 - 💬 Ask me about : my stint working with MP State Government as a Principal Consultant. 
 - 📫 How to reach me: www.onelife.in @sunilchoudhary sunil.choudhary@gmail.com www.linkedin.com/in/suchoudh 887132909 (91 for India)  
 - 😄 Pronouns: He/him 
@@ -63,6 +63,7 @@ My Latest Blog Posts :: https://sunil_choudhary.blogspot.com/
 ### Aspiring to learn :
 <p align="right"> 
   <img src="canva-original.svg" alt="Canva"  width="60" height="60" /></a>  
+  <a href="" target="blank"><img src="mongodb-original-wordmark.svg" alt="MongoDB"  width="60" height="60" /></a> 
   <a href="" target="blank"><img src="perl-original.svg" alt="Perl"  width="60" height="60" /></a>  
   <a href="" target="blank"> <img src="jetbrains-original.svg" alt="JetBrains"  width="60" height="60" /></a>  
   <a> <img src="neo4j-original-wordmark.svg" alt="Neo4J"  width="60" height="60" /></a>  
@@ -72,7 +73,7 @@ My Latest Blog Posts :: https://sunil_choudhary.blogspot.com/
 
 <!-- 
 Rough space : for copy pastes :) 
-
+mongodb-original-wordmark.svg
 --> 
 
 </p>
