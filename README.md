@@ -16,6 +16,7 @@
 **suchoudh/suchoudh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+this is idea from Ashish Sir : 
 -->
 
 - 🔭 I’m currently working on brushing my Sysadmin skills and use them for a DevSecOps profile 
