@@ -50,28 +50,28 @@ My Latest Blog Posts :: https://sunil_choudhary.blogspot.com/
 
 
 ### Languages and Tools:
-<p align="left"><img src="amazonwebservices-original-wordmark.svg" alt="AWS" width="120" height="120"/> </a>
-<a href="http"//www.oracle.com" target="blank"><img src="oracle-original.svg" alt="oracle"  width="120" height="120" /></a>                                                                  <a href="http"//www.ubuntu.com" target="blank"><img src="ubuntu-plain.svg" alt="ubuntu"  width="60" height="60" /></a> 
-<a href="http"//www.terraform.com" target="blank"><img src="terraform-original.svg" alt="terraform"  width="60" height="60" /></a>                                                                  <a href="http"//www.rstudio.com" target="blank"><img src="rstudio-original.svg" alt="rstudio"  width="60" height="60" /></a> 
-<a href="http"//www.cloud.google.com" target="blank"><img src="googlecloud-original-wordmark.svg" alt="GoogleCloud"  width="120" height="120" /></a> 
-<a href="http"//www.docker.com" target="blank"><img src="docker-original-wordmark.svg" alt="docker"  width="120" height="120" /></a> 
-<a href="http"//www.ansible.com" target="blank"><img src="ansible-original-wordmark.svg" alt="ansible"  width="60" height="60" /></a> 
-<a href="http"//www.jenkins.com" target="blank"><img src="jenkins-original.svg" alt="Jenkins"  width="60" height="60" /></a>    
-<a href=" " target="blank"><img src="c-line.svg" alt="C Language"  width="60" height="60" /></a>    
-<a href=" " target="blank"><img src="cmake-original-wordmark.svg" alt="C Make"  width="60" height="60" /></a>
-<a href=" " target="blank"><img src="apache-original-wordmark.svg" alt="Apache"  width="60" height="60" /></a>    
+<p align="left"><img src="img/amazonwebservices-original-wordmark.svg" alt="AWS" width="120" height="120"/> </a>
+<a href="http"//www.oracle.com" target="blank"><img src="img/oracle-original.svg" alt="oracle"  width="120" height="120" /></a>                                                                  <a href="http"//www.ubuntu.com" target="blank"><img src="img/ubuntu-plain.svg" alt="ubuntu"  width="60" height="60" /></a> 
+<a href="http"//www.terraform.com" target="blank"><img src="img/terraform-original.svg" alt="terraform"  width="60" height="60" /></a>                                                                  <a href="http"//www.rstudio.com" target="blank"><img src="img/rstudio-original.svg" alt="rstudio"  width="60" height="60" /></a> 
+<a href="http"//www.cloud.google.com" target="blank"><img src="img/googlecloud-original-wordmark.svg" alt="GoogleCloud"  width="120" height="120" /></a> 
+<a href="http"//www.docker.com" target="blank"><img src="img/docker-original-wordmark.svg" alt="docker"  width="120" height="120" /></a> 
+<a href="http"//www.ansible.com" target="blank"><img src="img/ansible-original-wordmark.svg" alt="ansible"  width="60" height="60" /></a> 
+<a href="http"//www.jenkins.com" target="blank"><img src="img/jenkins-original.svg" alt="Jenkins"  width="60" height="60" /></a>    
+<a href=" " target="blank"><img src="img/c-line.svg" alt="C Language"  width="60" height="60" /></a>    
+<a href=" " target="blank"><img src="img/cmake-original-wordmark.svg" alt="C Make"  width="60" height="60" /></a>
+<a href=" " target="blank"><img src="img/apache-original-wordmark.svg" alt="Apache"  width="60" height="60" /></a>    
 </p>
 
 ### Aspiring to learn :
 <p align="right"> 
-  <img src="canva-original.svg" alt="Canva"  width="60" height="60" /></a>  
-  <a href="" target="blank"><img src="mongodb-original-wordmark.svg" alt="MongoDB"  width="60" height="60" /></a> 
-  <a href="" target="blank"><img src="perl-original.svg" alt="Perl"  width="60" height="60" /></a>  
-  <a href="" target="blank"> <img src="jetbrains-original.svg" alt="JetBrains"  width="60" height="60" /></a>  
-  <a> <img src="neo4j-original-wordmark.svg" alt="Neo4J"  width="60" height="60" /></a>  
-  <a> <img src="raspberrypi-original-wordmark.svg" alt="RaspberryPi"  width="140" height="140" /></a>
-  <a> <img src="rust-logo-blk.png" alt="Rust"  width="60" height="60" /></a>
-   <a> <img src="graphql-plain-wordmark.svg" alt="GraphQL"  width="60" height="60" /></a>
+  <img src="img/canva-original.svg" alt="Canva"  width="60" height="60" /></a>  
+  <a href="" target="blank"><img src="img/mongodb-original-wordmark.svg" alt="MongoDB"  width="60" height="60" /></a> 
+  <a href="" target="blank"><img src="img/perl-original.svg" alt="Perl"  width="60" height="60" /></a>  
+  <a href="" target="blank"> <img src="img/jetbrains-original.svg" alt="JetBrains"  width="60" height="60" /></a>  
+  <a> <img src="img/neo4j-original-wordmark.svg" alt="Neo4J"  width="60" height="60" /></a>  
+  <a> <img src="img/raspberrypi-original-wordmark.svg" alt="RaspberryPi"  width="140" height="140" /></a>
+  <a> <img src="img/rust-logo-blk.png" alt="Rust"  width="60" height="60" /></a>
+   <a> <img src="img/graphql-plain-wordmark.svg" alt="GraphQL"  width="60" height="60" /></a>
 
 <!-- 
 Rough space : for copy pastes :) 
@@ -79,4 +79,5 @@ mongodb-original-wordmark.svg
 --> 
 
 </p>
+
 
