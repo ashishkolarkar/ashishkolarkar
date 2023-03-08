@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 this is idea from Ashish Sir : 
 - 🔭 I’m currently working on brushing my Sysadmin skills and use them for a DevSecOps profile 
 - 🌱 I’m currently enjoying to work on AWS, GCP 
-- 👯 I’m looking to collaborate on website development and 
+- 👯 I’m looking to collaborate on website development and system design
 - 🤔 I’m looking for help with earning via some SideGigs and consultancies  
 - 💬 Ask me about : my stint working with MP State Government as a Principal Consultant. 
 - 📫 How to reach me: www.onelife.in @sunilchoudhary sunil.choudhary@gmail.com www.linkedin.com/in/suchoudh 887132909 (91 for India)  
