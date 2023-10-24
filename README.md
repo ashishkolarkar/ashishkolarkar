@@ -26,7 +26,8 @@ this is idea from Ashish Sir :
 - 💬 Ask me about : my stint working with MP State Government as a Principal Consultant. 
 - 📫 How to reach me: www.onelife.in @sunilchoudhary sunil.choudhary@gmail.com www.linkedin.com/in/suchoudh 887132909 (91 for India)  
 - 😄 Pronouns: He/him 
-- ⚡ Fun fact: I love to sketch while listening to classical Hindustani Music. 
+- ⚡ Fun fact: I love to sketch while listening to classical Hindustani Music. ![My Youtube Playlist](https://www.youtube.com/playlist?list=PLFxe0PugMOHAJp-StF1Tc5IpMqhEdIzH7)
+- https://www.youtube.com/playlist?list=PLFxe0PugMOHAJp-StF1Tc5IpMqhEdIzH7
 
 
 
