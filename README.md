@@ -42,11 +42,11 @@ this is idea from Ashish Sir :
 # Blog posts 
 My Latest Blog Posts :: https://sunil_choudhary.blogspot.com/
 <!-- BLOG-POST-LIST:START -->
+- [Alumni Meet 25 Years for SGSITS](https://sunil_choudhary.blogspot.com/2023/12/alumni-meet-25-years-for-sgsits.html)
 - [Cultivating Meaningful Incompleteness](https://sunil_choudhary.blogspot.com/2023/03/cultivating-meaningful-incompleteness.html)
 - [Never Grow Old](https://sunil_choudhary.blogspot.com/2021/06/never-grow-old.html)
 - [Brace yourself &lpar; Its the Lion who will decide what to do now.. &rpar;](https://sunil_choudhary.blogspot.com/2021/06/brace-yourself-its-lion-who-will-decide.html)
 - [DAY 8/Post 339 checking IFTTT](https://sunil_choudhary.blogspot.com/2021/05/day-8post-339-checking-ifttt.html)
-- [DAY 8/Post 334 : .. and what does it mean now.](https://sunil_choudhary.blogspot.com/2021/05/day-8post-334-and-what-does-it-mean-now.html)
 <!-- BLOG-POST-LIST:END -->
 
 
