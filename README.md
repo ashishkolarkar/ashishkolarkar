@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suchoudh&theme=graywhite)](https://git.io/streak-stats)
-[![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=suchoudh)](https://github.com/suchoudh/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashishkolarkar&theme=graywhite)](https://git.io/streak-stats)
+[![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishkolarkar)](https://github.com/ashishkolarlar/github-readme-stats)
 
 <div align="left" inline>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=suchoudh&label=Profile%20views&color=0e75b6&style=flat" alt="suchoudh" /> </span>
